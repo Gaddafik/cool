@@ -1,0 +1,18 @@
+a.button{
+    text-decoration: none;
+    padding: 17px;
+    margin: 25px;
+    border: none;
+    border-radius: 20px;
+    background-color: black;
+    color: whitesmoke;
+}
+a.button:hover{
+    background-color: burlywood;
+    color: black;
+    transition: 1s;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
